@@ -264,13 +264,13 @@ section {
 #experience-content-wrapper {
   position: relative;
   width: 76%;
-  height: 1180px;
+  height: 1540px;
   top: 150px;
   margin-bottom: 20%;
 }
 
 #experience-timeline-wrapper {
-  height: 880px;
+  height: 1150px;
   width: 15px;
 }
 
@@ -298,9 +298,9 @@ section {
 
 .vertical-line {
   width: 4px;
-  height: 0%;
+  /* height: 0%; */
   background-color: rgb(146, 146, 146);
-  margin-top: -1150px;
+  margin-top: -1435px;
 }
 
 .experience-content {
@@ -934,9 +934,9 @@ footer .footer-info a {
     width: 470px;
   }
 
-  .project-card:first-child {
-    margin-right: 15.5px;
-  }
+  /* .project-card:first-child { */
+  /* margin-right: 15.5px; */
+  /* } */
 
   #download-title {
     width: 60%;
@@ -985,10 +985,10 @@ footer .footer-info a {
     margin: 0 auto;
   }
 
-  .project-card:first-child {
-    margin-bottom: 80px;
-    margin-right: auto;
-  }
+  /* .project-card:first-child { */
+  /* margin-bottom: 80px; */
+  /* margin-right: auto; */
+  /* } */
 
   .separator,
   #quote-wrapper {
@@ -1096,7 +1096,7 @@ footer .footer-info a {
   }
 
   .vertical-line {
-    height: 100%;
+    /* height: 100%; */
   }
 
   .experience-content {
@@ -1472,10 +1472,10 @@ footer .footer-info a {
     height: 1225px;
   }
 
-  .vertical-line {
-    height: 103%;
-    margin-top: -1235px;
-  }
+  /* .vertical-line { */
+  /* height: 103%; */
+  /* margin-top: -1235px; */
+  /* } */
 
   .circle:not(:last-child) {
     margin-bottom: 265px;
